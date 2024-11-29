@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/lochmidth](https://github.com/lochmidth)
 
-- 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
+- 📝 I regularly write articles on [https://medium.com/@alphanogun](https://medium.com/@alphanogun)
 
 - 💬 Ask me about **Swift**
 
